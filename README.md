@@ -14,11 +14,11 @@ There are two options available that may be added onto the end of the previously
     - `-d` prints debugging information output to the console
 
 ### Example execution 1
-![Example execution 1](docs/images/example_execution_1.jpg)
+![Example execution 1](doc/images/example_execution_1.jpg)
 The information of each process is printed out in the order that they finish and finally the average waiting time, turnaround time and throughput are printed at the end.
 
 ### Example execution 2
-![Example execution 2](docs/images/example_execution_2.jpg)
+![Example execution 2](doc/images/example_execution_2.jpg)
 Note that the inclusion of `-d` provides extra information during the execution of the simulation. This may help with checking the correctness of each scheduler algorithm.
 
 ### Summary of source code structure and style
